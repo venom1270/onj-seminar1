@@ -1,0 +1,416 @@
+Datoteka: pozitivni_expanded_nepreverjeni.txt
+
+Brez sopomenke: 
+- avtohton
+- boljši
+- demokratičen
+- dobrodošel
+- goreč
+- klasičen
+- krčevit
+- legalen
+- mlajši
+- navezan
+- obetaven
+- olimpijski
+- pismen
+- pritrdilen
+- protivirusno
+- roden
+- romantičen
+- slikovit
+- strpen
+- teritorialen
+- uraden
+- urbanističen
+- večjezičen
+- voljan
+- vseveden
+- zadovoljen
+- zal
+- zaljubljen
+- človekoljuben
+- žlahten
+
+Vseh besed: 71803
+Ročno preverjenih: 33546
+Nepreverjenih: 38257
+Parameter "samo ročno preverjene besede": false
+Sopomenskih skupin (glede na parametre): 15537
+Sopomenk (glede na parametre): 44623
+
+Vhodnih besed: 188
+30 besed je brez sopomenk.
+Iz 158 besed je bilo najdenih še 886 dodatnih sopomenk.
+V datoteko "pozitivni_expanded_nepreverjeni.txt" je bilo zapisanih skupaj 1074 besed.
+
+______________________________________________________________________________________
+
+Datoteka: pozitivni_expanded_samopreverjeni.txt
+
+Brez sopomenke: 
+- ambiciozen
+- avtohton
+- blag
+- blažen
+- boljši
+- brezskrben
+- demokratičen
+- dober
+- dobrodošel
+- domoljuben
+- dosleden
+- drzen
+- duhovit
+- epski
+- ganljiv
+- goreč
+- historičen
+- hranljiv
+- hvaležen
+- izboren
+- izreden
+- jedrnat
+- klasičen
+- konservativen
+- korenit
+- koristen
+- kraljevski
+- kritičen
+- krčevit
+- lahek
+- legalen
+- legendaren
+- legitimen
+- liberalen
+- ljubljen
+- mavričen
+- miren
+- mlad
+- mlajši
+- moder
+- mogoč
+- nadnaraven
+- navajen
+- navdušen
+- navezan
+- neodvisen
+- nepozaben
+- neprecenljiv
+- nepremagljiv
+- nepristranski
+- nesmrten
+- neustrašen
+- nežen
+- nov
+- obetaven
+- odgovoren
+- odločen
+- olikan
+- olimpijski
+- optimističen
+- orjaški
+- oseben
+- očarljiv
+- pismen
+- ploden
+- pobožen
+- pogumen
+- ponižen
+- ponosen
+- poročen
+- poslušen
+- posvečen
+- pozoren
+- pošten
+- praktičen
+- prekajen
+- pretkan
+- prijateljski
+- prijazen
+- prijeten
+- pristen
+- pritrdilen
+- prost
+- prostoren
+- protivirusno
+- racionalen
+- radodaren
+- radoveden
+- razburljiv
+- realen
+- redek
+- resen
+- roden
+- rodosloven
+- romantičen
+- sanitaren
+- skrben
+- sladek
+- slasten
+- slikovit
+- socialen
+- sončen
+- spodoben
+- srečen
+- stalen
+- strasten
+- strpen
+- svetel
+- svoboden
+- tekoč
+- temeljit
+- teritorialen
+- trajen
+- trden
+- trezen
+- trpežen
+- ubran
+- udoben
+- udomačen
+- uraden
+- urban
+- urbanističen
+- uslužen
+- ustaven
+- utrjen
+- vajen
+- varen
+- veličasten
+- vesel
+- večen
+- večjezičen
+- visok
+- vljuden
+- voljan
+- vsemogočen
+- vseveden
+- zadovoljen
+- zal
+- zaljubljen
+- zanimiv
+- zdrav
+- zdravilen
+- zdravniški
+- združen
+- zgodovinski
+- zmagoslaven
+- zmagovit
+- znanstven
+- zrel
+- zvedav
+- zvest
+- zvit
+- čaroben
+- čeden
+- človekoljuben
+- čudežen
+- železen
+- živahen
+- žlahten
+
+Vseh besed: 71803
+Ročno preverjenih: 33546
+Nepreverjenih: 38257
+Parameter "samo ročno preverjene besede": true
+Sopomenskih skupin (glede na parametre): 8468
+Sopomenk (glede na parametre): 23390
+
+Vhodnih besed: 188
+159 besed je brez sopomenk.
+Iz 29 besed je bilo najdenih še 93 dodatnih sopomenk.
+V datoteko "pozitivni_expanded_samopreverjeni.txt" je bilo zapisanih skupaj 281 besed.
+
+______________________________________________________________________________________
+
+
+Datoteka: negativni_expanded_nepreverjeni.txt
+
+Brez sopomenke: 
+- anarhističen
+- arhaičen
+- boleč
+- fosilen
+- grenak
+- izobčen
+- nacionalističen
+- napet
+- oklevajoč
+- pogolten
+- prevraten
+- rasističen
+- slabši
+- slep
+- spolzek
+- starodaven
+- stekel
+- strt
+- terorističen
+- ukraden
+- votel
+- vraževeren
+- zlomljen
+- živčen
+
+Vseh besed: 71803
+Ročno preverjenih: 33546
+Nepreverjenih: 38257
+Parameter "samo ročno preverjene besede": false
+Sopomenskih skupin (glede na parametre): 15537
+Sopomenk (glede na parametre): 44623
+
+Vhodnih besed: 175
+24 besed je brez sopomenk.
+Iz 151 besed je bilo najdenih še 903 dodatnih sopomenk.
+V datoteko "negativni_expanded_nepreverjeni.txt" je bilo zapisanih skupaj 1078 besed.
+
+______________________________________________________________________________________
+
+
+Datoteka: negativni_expanded_samopreverjeni.txt
+
+Brez sopomenke: 
+- anarhističen
+- arhaičen
+- aroganten
+- bogokleten
+- bolan
+- bolehen
+- boleč
+- brezbrižen
+- brezupen
+- ciničen
+- debel
+- dolgočasen
+- drag
+- fosilen
+- gnil
+- grd
+- grenak
+- grozen
+- grozljiv
+- hinavski
+- hladen
+- hripav
+- ironičen
+- izobčen
+- izzivalen
+- klepetav
+- krhek
+- kroničen
+- krotek
+- krvav
+- krvoločen
+- lačen
+- len
+- lepljiv
+- ljubosumen
+- mlačen
+- molčeč
+- mrtev
+- mrzel
+- nacionalističen
+- nadut
+- napadalen
+- napet
+- nasilen
+- negiben
+- nemaren
+- nemogoč
+- nenaden
+- nepravičen
+- nesramen
+- nesrečen
+- neumen
+- neveden
+- neviden
+- nevoščljiv
+- nezavesten
+- nečimrn
+- oblačen
+- obrabljen
+- obupan
+- ogaben
+- okajen
+- oklevajoč
+- okužen
+- ošaben
+- patološki
+- pereč
+- pesimističen
+- pijan
+- plašen
+- plešast
+- podrejen
+- pogolten
+- poguben
+- pohleven
+- pornografski
+- potresen
+- potrt
+- povprečen
+- pozabljen
+- pozabljiv
+- počasen
+- preklet
+- prepovedan
+- presenečen
+- prevraten
+- pristranski
+- ranjen
+- rasističen
+- sebičen
+- skop
+- skrit
+- skriven
+- slab
+- slabokrven
+- slabšalen
+- slabši
+- slan
+- slep
+- sluzast
+- smrtonosen
+- spolzek
+- sramoten
+- starodaven
+- stekel
+- strog
+- strt
+- strupen
+- terorističen
+- težek
+- tih
+- trmast
+- ukraden
+- umazan
+- uničevalen
+- usoden
+- utrudljiv
+- utrujen
+- vlažen
+- vnetljiv
+- votel
+- vraževeren
+- zamerljiv
+- zaprt
+- zelen
+- zlomljen
+- zmeden
+- črn
+- škodoželjen
+- žalosten
+- žejen
+- živčen
+
+Vseh besed: 71803
+Ročno preverjenih: 33546
+Nepreverjenih: 38257
+Parameter "samo ročno preverjene besede": true
+Sopomenskih skupin (glede na parametre): 8468
+Sopomenk (glede na parametre): 23390
+
+Vhodnih besed: 175
+132 besed je brez sopomenk.
+Iz 43 besed je bilo najdenih še 99 dodatnih sopomenk.
+V datoteko "negativni_expanded_samopreverjeni.txt" je bilo zapisanih skupaj 274 besed.
