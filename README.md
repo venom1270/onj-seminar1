@@ -16,9 +16,14 @@ Za analizo sentimenta sva zgradila slovar pozitivnih in negativnih besed. Nahaja
 
 V mapi 'notebooks' sta pomembni dve datoteki: 'Parser final' in 'Analiza'.
 
-'Parser final' vsebuje parser za parsanje novic, naslovov in komentarjev gleden a podani iskalni niz. Rezultate zapiše v datoteko.
+'Parser final' vsebuje parser za parsanje novic, naslovov in komentarjev glede na podani iskalni niz. Rezultate zapiše v datoteko.
 
 'Analiza' vsebuje metode za branje datotek z novicami, lematizacijo (uporaba .exe porgrama je implementirana v notebooku) in 
 splošno analizo: clustering ter sentiment.
 
 Bloke kode poganjamo po vrsti.
+
+## Opombe
+
+V mapi 'notebooks' se nahajta dva notebooka z naslovom Analiza - poročilo... . 
+Datoteki vsebujeta rezultate uporabljene v poročilu. 
